@@ -56,3 +56,10 @@
 Реализовать механизм автоматического сохранения и загрузки файлов на Nextcloud.
 На базе NocoDB спроектировать структуру базы данных для хранения соответвующей информации о клиентах и объектах из полей ввода с учетом нормализованных форм отношения, обеспечить хранение. Пример структуры данных находится [по ссылке](https://docs.google.com/spreadsheets/d/1FhZs1RxUTdo9KgK4eRTbrZJkKmiv1ncx-Pp_n-4FeJc/edit?usp=sharing).
 
+
+<iframe class="nc-embed"
+  src="https://pp3.my.postcat.de/dashboard/#/nc/form/f19fc7dd-13f9-4a15-8aa4-78ffef0cd029?embed"
+  frameborder="0"
+  width="100%"
+  height="700"
+  style="background: transparent; border: 1px solid #ddd"></iframe>
